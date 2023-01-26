@@ -9,8 +9,10 @@
     background-color: rgba(231, 106, 231, 0.637);
 }
 
-#carousel
-{
-   width: 50%;
 
+#alberti
+{
+    padding: 300px;
+    background-repeat: AUTO;
+    background-size: AUTO;
 }
